@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "lib_with_demo_probe"
 include ':app'
 include ':lib'
+include ':cloud_reader'
+
