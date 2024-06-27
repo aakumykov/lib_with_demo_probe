@@ -1,0 +1,3 @@
+[submodule "cloud_reader"]
+	path = cloud_reader
+	url = git@github.com:aakumykov/cloud_reader
